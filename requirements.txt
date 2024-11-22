@@ -1,0 +1,16 @@
+# Recommended environment:
+# - Windows with x64 architecture
+# - CPython >=3.12.7,<=3.13.0
+# - NVIDIA hardware with CUDA support
+#   = CUDA Driver 12.7 or newer
+#   = CUDA Toolkit v12.6 Update 2 or newer
+#   = CuDNN Runtime v9.5 or newer
+#
+# WARNING:
+#   Other minor versions of CPython distribution should be OK.
+#   But I haven't tested yet.
+numpy>=2.1.3
+scipy>=1.14.1
+matplotlib>=3.9.2
+scikit-learn>=1.5.2
+notebook
